@@ -1,0 +1,18 @@
+#section1{
+    background: url('https://preview.colorlib.com/theme/blogger/img/header-bg.jpg') center/cover;
+    height: 100vh;
+    padding: 20px 200px;
+}
+#article{
+    padding: 350px 0;
+}
+#article h1{
+    color: white;
+    font-size: 48px;
+    width: 60%;
+    font-weight: bold;
+}
+#article p{
+    color: white;
+    padding: 150px 0;
+}
